@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Software"
+title: ""
 ---
 
 * [qwalkr](https://github.com/vitormarquesr/qwalkr): Handle Continuous-Time Quantum Walks with R
